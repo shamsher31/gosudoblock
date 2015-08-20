@@ -23,7 +23,7 @@ func main() {
 
 ### Related
 [goisroot](https://github.com/shamsher31/goisroot)<br>
-[ansicolor](https://https://github.com/shiena/ansicolor)<br>
+[ansicolor](https://github.com/shiena/ansicolor)<br>
 
 ### Why
 This package is inspired by [sudo-block](https://www.npmjs.com/package/sudo-block) npm module.
