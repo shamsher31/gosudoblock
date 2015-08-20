@@ -16,14 +16,14 @@ import (
 )
 
 func main() {
-   sudoblock()
+   sudoblock.Is()
+   // You are not allowed to run this app with root permissions
 }
 ```
 
 ### Related
-[govdoext](https://github.com/shamsher31/govdoext)<br>
-[goistext](https://github.com/ferhatelmas/goistext)<br>
-[goisimg](https://github.com/ferhatelmas/goisimg)<br>
+[goisroot](https://github.com/shamsher31/goisroot)<br>
+[ansicolor](https://https://github.com/shiena/ansicolor)<br>
 
 ### Why
 This package is inspired by [sudo-block](https://www.npmjs.com/package/sudo-block) npm module.
